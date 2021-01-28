@@ -1,0 +1,103 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1611851455
+<< poly >>
+rect 94 -74 124 62
+rect 182 17 300 38
+rect 182 -17 222 17
+rect 256 -17 300 17
+rect 182 -32 300 -17
+rect 94 -91 218 -74
+rect 94 -125 139 -91
+rect 173 -125 218 -91
+rect 94 -141 218 -125
+rect 94 -224 124 -141
+rect 358 -160 388 46
+rect 298 -177 388 -160
+rect 298 -211 314 -177
+rect 349 -211 388 -177
+rect 298 -224 388 -211
+rect 298 -225 358 -224
+<< polycont >>
+rect 222 -17 256 17
+rect 139 -125 173 -91
+rect 314 -211 349 -177
+<< locali >>
+rect 82 230 136 264
+rect 170 230 224 264
+rect 258 230 312 264
+rect 346 230 402 264
+rect 48 86 82 230
+rect 224 86 258 230
+rect 400 86 434 230
+rect 136 67 170 86
+rect 119 47 170 67
+rect 312 81 346 86
+rect 312 47 365 81
+rect 48 36 170 47
+rect 48 13 153 36
+rect 200 17 289 18
+rect 48 -177 82 13
+rect 200 -17 222 17
+rect 256 -17 289 17
+rect 200 -18 289 -17
+rect 331 -59 365 47
+rect 139 -61 365 -59
+rect 139 -91 434 -61
+rect 173 -95 434 -91
+rect 139 -141 173 -125
+rect 48 -211 314 -177
+rect 349 -211 365 -177
+rect 48 -253 82 -211
+rect 400 -248 434 -95
+rect 81 -254 82 -253
+rect 136 -370 170 -338
+rect 312 -368 346 -338
+<< viali >>
+rect 48 230 82 264
+rect 136 230 170 264
+rect 224 230 258 264
+rect 312 230 346 264
+rect 402 230 436 264
+<< metal1 >>
+rect 30 264 448 294
+rect 30 230 48 264
+rect 82 230 136 264
+rect 170 230 224 264
+rect 258 230 312 264
+rect 346 230 402 264
+rect 436 230 448 264
+rect 30 200 448 230
+use sky130_fd_pr__nfet_01v8_PKCY66  sky130_fd_pr__nfet_01v8_PKCY66_0
+timestamp 1611851455
+transform 1 0 109 0 1 -292
+box -73 -68 73 68
+use sky130_fd_pr__nfet_01v8_PKCY66  sky130_fd_pr__nfet_01v8_PKCY66_1
+timestamp 1611851455
+transform 1 0 373 0 1 -292
+box -73 -68 73 68
+use sky130_fd_pr__pfet_01v8_HMCWMR  P0
+timestamp 1611765135
+transform 1 0 109 0 1 119
+box -109 -117 109 117
+use sky130_fd_pr__pfet_01v8_HMCWMR  P1
+timestamp 1611765135
+transform 1 0 197 0 1 119
+box -109 -117 109 117
+use sky130_fd_pr__pfet_01v8_HMCWMR  P3
+timestamp 1611765135
+transform 1 0 285 0 1 119
+box -109 -117 109 117
+use sky130_fd_pr__pfet_01v8_Z9CWMR  P4
+timestamp 1611765135
+transform 1 0 373 0 1 119
+box -109 -117 109 117
+<< labels >>
+rlabel viali 66 244 66 244 0 VCC
+rlabel polycont 240 0 240 0 0 SENSE_N
+rlabel locali 64 -98 64 -98 0 Q
+rlabel locali 416 -78 416 -78 0 QN
+rlabel locali 154 -354 154 -354 0 I1
+rlabel locali 330 -354 330 -354 0 I0
+<< end >>

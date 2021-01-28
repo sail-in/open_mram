@@ -1,0 +1,17 @@
+magic
+tech sky130A
+timestamp 1611848631
+<< metal3 >>
+rect -5 39 46 45
+rect -5 8 86 39
+rect -5 -3 46 8
+<< mtj >>
+rect 14 17 27 30
+<< metal4 >>
+rect -5 42 46 45
+rect -65 2 46 42
+rect -5 -3 46 2
+<< labels >>
+rlabel metal4 -40 21 -40 21 1 r
+rlabel metal3 65 22 65 22 1 s
+<< end >>

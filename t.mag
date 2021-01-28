@@ -1,0 +1,9 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1611709033
+use sky130_fd_pr__nfet_01v8_EHJ4GN  sky130_fd_pr__nfet_01v8_EHJ4GN_0
+timestamp 1611709033
+transform 1 0 20 0 1 15
+box -73 -68 73 68
+<< end >>

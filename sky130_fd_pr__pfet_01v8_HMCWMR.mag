@@ -1,0 +1,33 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1611765135
+<< nwell >>
+rect -109 -117 109 117
+<< pmos >>
+rect -15 -55 15 55
+<< pdiff >>
+rect -73 17 -15 55
+rect -73 -17 -61 17
+rect -27 -17 -15 17
+rect -73 -55 -15 -17
+rect 15 17 73 55
+rect 15 -17 27 17
+rect 61 -17 73 17
+rect 15 -55 73 -17
+<< pdiffc >>
+rect -61 -17 -27 17
+rect 27 -17 61 17
+<< poly >>
+rect -15 55 15 81
+rect -15 -81 15 -55
+<< locali >>
+rect -61 17 -27 33
+rect -61 -33 -27 -17
+rect 27 17 61 33
+rect 27 -33 61 -17
+<< properties >>
+string gencell sky130_fd_pr__pfet_01v8
+string parameters w 0.55 l 0.15 m 1 nf 1 diffcov 20 polycov 20 guard 0 glc 0 grc 0 gtc 0 gbc 0 tbcov 0 rlcov 0 topc 0 botc 0 poverlap 0 doverlap 0 lmin 0.15 wmin 0.42 compatible {sky130_fd_pr__pfet_01v8  sky130_fd_pr__pfet_01v8_lvt sky130_fd_pr__pfet_01v8_hvt  sky130_fd_pr__pfet_g5v0d10v5} full_metal 0 viagl 0 viagr 0 viagt 0 viagb 0 viagate 0 viadrn 0 viasrc 0
+string library sky130
+<< end >>
