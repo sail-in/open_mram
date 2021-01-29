@@ -30,7 +30,7 @@ N 940 -370 940 -250 { lab=#net2}
 N 620 -390 620 -250 {}
 N 870 -330 870 -250 {}
 N 620 -330 870 -330 {}
-C {/home/jackclar/mramSkywater/SENSEAMP.sym} 420 -410 0 0 {name=x1}
+C {./SENSEAMP.sym} 420 -410 0 0 {name=x1}
 C {devices/iopin.sym} 650 -470 0 0 {name=VDD lab=VDD}
 C {devices/iopin.sym} 650 -450 0 0 {name=SENSE_N lab=SENSE_N}
 C {devices/iopin.sym} 650 -430 0 0 {name=QN lab=QN}

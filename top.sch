@@ -13,7 +13,7 @@ N 950 -190 1080 -50 { lab=#net6}
 N 950 -170 1130 -10 { lab=#net7}
 N 950 -150 1130 -80 { lab=#net8}
 N 950 -130 1130 -210 { lab=#net9}
-C {/home/jackclar/mramSkywater/BITCELL.sym} 800 -210 0 0 {name=x1}
+C {./BITCELL.sym} 800 -210 0 0 {name=x1}
 C {devices/connector.sym} 1080 -320 0 1 {name=c0 footprint=connector(1,1)}
 C {devices/connector.sym} 1130 -280 0 1 {name=c1 footprint=connector(1,1)}
 C {devices/connector.sym} 1080 -230 0 1 {name=c2 footprint=connector(1,1)}
