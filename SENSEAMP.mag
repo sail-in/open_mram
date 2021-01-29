@@ -69,30 +69,30 @@ rect 258 230 312 264
 rect 346 230 402 264
 rect 436 230 448 264
 rect 30 200 448 230
-use sky130_fd_pr__pfet_01v8_Z9CWMR  P4
+use sky130_fd_pr__nfet_01v8_PKCY66  sky130_fd_pr__nfet_01v8_PKCY66_0
+timestamp 1611851455
+transform 1 0 109 0 1 -292
+box -73 -68 73 68
+use sky130_fd_pr__nfet_01v8_PKCY66  sky130_fd_pr__nfet_01v8_PKCY66_1
+timestamp 1611851455
+transform 1 0 373 0 1 -292
+box -73 -68 73 68
+use sky130_fd_pr__pfet_01v8_HMCWMR  P0
 timestamp 1611765135
-transform 1 0 373 0 1 119
-box -109 -117 109 117
-use sky130_fd_pr__pfet_01v8_HMCWMR  P3
-timestamp 1611765135
-transform 1 0 285 0 1 119
+transform 1 0 109 0 1 119
 box -109 -117 109 117
 use sky130_fd_pr__pfet_01v8_HMCWMR  P1
 timestamp 1611765135
 transform 1 0 197 0 1 119
 box -109 -117 109 117
-use sky130_fd_pr__pfet_01v8_HMCWMR  P0
+use sky130_fd_pr__pfet_01v8_HMCWMR  P3
 timestamp 1611765135
-transform 1 0 109 0 1 119
+transform 1 0 285 0 1 119
 box -109 -117 109 117
-use sky130_fd_pr__nfet_01v8_PKCY66  sky130_fd_pr__nfet_01v8_PKCY66_1
-timestamp 1611851455
-transform 1 0 373 0 1 -292
-box -73 -68 73 68
-use sky130_fd_pr__nfet_01v8_PKCY66  sky130_fd_pr__nfet_01v8_PKCY66_0
-timestamp 1611851455
-transform 1 0 109 0 1 -292
-box -73 -68 73 68
+use sky130_fd_pr__pfet_01v8_Z9CWMR  P4
+timestamp 1611765135
+transform 1 0 373 0 1 119
+box -109 -117 109 117
 << labels >>
 rlabel viali 66 244 66 244 0 VCC
 rlabel polycont 240 0 240 0 0 SENSE_N
