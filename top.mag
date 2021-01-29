@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1611946601
+timestamp 1611950381
 << nwell >>
 rect 34004 -9850 35650 -9848
 rect 34003 -10491 35650 -9850
@@ -439,35 +439,35 @@ rect 43320 -25008 43404 -17572
 rect 59795 -25033 59861 -11328
 rect 74477 -25503 74544 -10966
 use sky130_ef_io__bare_pad  sky130_ef_io__bare_pad_11 $PDKPATH/libs.ref/sky130_fd_io/mag
-timestamp 1611944480
+timestamp 1611950381
 transform 1 0 540 0 -1 -25460
 box -540 -540 12540 14540
 use sky130_ef_io__bare_pad  sky130_ef_io__bare_pad_10
-timestamp 1611944480
+timestamp 1611950381
 transform 1 0 14540 0 -1 -25460
 box -540 -540 12540 14540
 use sky130_ef_io__bare_pad  sky130_ef_io__bare_pad_9
-timestamp 1611944480
+timestamp 1611950381
 transform 1 0 28540 0 -1 -25460
 box -540 -540 12540 14540
 use sky130_ef_io__bare_pad  sky130_ef_io__bare_pad_8
-timestamp 1611944480
+timestamp 1611950381
 transform 1 0 42540 0 -1 -25460
 box -540 -540 12540 14540
 use sky130_ef_io__bare_pad  sky130_ef_io__bare_pad_7
-timestamp 1611944480
+timestamp 1611950381
 transform 1 0 56540 0 -1 -25460
 box -540 -540 12540 14540
 use sky130_ef_io__bare_pad  sky130_ef_io__bare_pad_6
-timestamp 1611944480
+timestamp 1611950381
 transform 1 0 70540 0 -1 -25460
 box -540 -540 12540 14540
 use sky130_ef_io__bare_pad  sky130_ef_io__bare_pad_13
-timestamp 1611944480
+timestamp 1611950381
 transform 1 0 84540 0 -1 -25460
 box -540 -540 12540 14540
 use sky130_fd_sc_hd__tap_1  sky130_fd_sc_hd__tap_1_0 $PDKPATH/libs.ref/sky130_fd_sc_hd/mag
-timestamp 1611944480
+timestamp 1611950381
 transform 1 0 34106 0 -1 -9590
 box -38 -48 130 592
 use BITCELL  BITCELL_1
@@ -479,31 +479,31 @@ timestamp 1611860754
 transform 1 0 33491 0 1 -10948
 box 515 -167 1083 753
 use sky130_ef_io__bare_pad  sky130_ef_io__bare_pad_0
-timestamp 1611944480
+timestamp 1611950381
 transform 1 0 540 0 1 540
 box -540 -540 12540 14540
 use sky130_ef_io__bare_pad  sky130_ef_io__bare_pad_1
-timestamp 1611944480
+timestamp 1611950381
 transform 1 0 14540 0 1 540
 box -540 -540 12540 14540
 use sky130_ef_io__bare_pad  sky130_ef_io__bare_pad_3
-timestamp 1611944480
+timestamp 1611950381
 transform 1 0 28540 0 1 540
 box -540 -540 12540 14540
 use sky130_ef_io__bare_pad  sky130_ef_io__bare_pad_2
-timestamp 1611944480
+timestamp 1611950381
 transform 1 0 42540 0 1 540
 box -540 -540 12540 14540
 use sky130_ef_io__bare_pad  sky130_ef_io__bare_pad_5
-timestamp 1611944480
+timestamp 1611950381
 transform 1 0 56540 0 1 540
 box -540 -540 12540 14540
 use sky130_ef_io__bare_pad  sky130_ef_io__bare_pad_4
-timestamp 1611944480
+timestamp 1611950381
 transform 1 0 70540 0 1 540
 box -540 -540 12540 14540
 use sky130_ef_io__bare_pad  sky130_ef_io__bare_pad_12
-timestamp 1611944480
+timestamp 1611950381
 transform 1 0 84540 0 1 540
 box -540 -540 12540 14540
 << labels >>
