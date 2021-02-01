@@ -19,10 +19,7 @@ C {devices/connector.sym} 1130 -280 0 1 {name=c1 footprint=connector(1,1)}
 C {devices/connector.sym} 1080 -230 0 1 {name=c2 footprint=connector(1,1)}
 C {devices/connector.sym} 1130 -210 0 1 {name=c3 footprint=connector(1,1)}
 C {devices/connector.sym} 1080 -170 0 1 {name=c4 footprint=connector(1,1)}
-C {devices/connector.sym} 1130 -140 0 1 {name=c5 footprint=connector(1,1)}
 C {devices/connector.sym} 1080 -110 0 1 {name=c6 footprint=connector(1,1)}
 C {devices/connector.sym} 1130 -80 0 1 {name=c7 footprint=connector(1,1)}
 C {devices/connector.sym} 1080 -50 0 1 {name=c8 footprint=connector(1,1)}
 C {devices/connector.sym} 1130 -10 0 1 {name=c9 footprint=connector(1,1)}
-C {devices/connector.sym} 1350 -210 0 1 {name=c10 footprint=connector(1,1)}
-C {devices/connector.sym} 1350 -170 0 1 {name=c11 footprint=connector(1,1)}

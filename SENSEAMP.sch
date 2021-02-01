@@ -31,8 +31,7 @@ N 650 -300 650 -230 { lab=QN}
 N 580 -230 610 -230 { lab=VSS}
 N 850 -230 880 -230 { lab=VSS}
 N 850 -300 850 -260 { lab=QN}
-N 610 -200 610 -160 { lab=#net1}
-N 850 -200 850 -160 { lab=#net2}
+N 610 -200 610 -160 { lab=I1}
 N 560 -340 610 -340 {lab=Q}
 N 610 -400 610 -340 { lab=Q}
 N 610 -340 610 -260 { lab=Q}
@@ -50,6 +49,10 @@ N 880 -230 970 -230 { lab=VSS}
 N 970 -230 970 -120 { lab=VSS}
 N 560 -120 970 -120 { lab=VSS}
 N 560 -230 560 -120 { lab=VSS}
+N 850 -200 850 -160 { lab=I0}
+N 990 -430 1010 -430 { lab=VDD}
+N 990 -460 990 -430 { lab=VDD}
+N 990 -460 1010 -460 { lab=VDD}
 C {sky130_fd_pr/pfet_01v8.sym} 440 -430 0 0 {name=M3
 L=0.15
 W=1
@@ -134,8 +137,8 @@ sa=0 sb=0 sd=0
 model=nfet_01v8
 spiceprefix=X
 }
-C {devices/iopin.sym} 600 -160 0 0 {name=I1 lab=I1}
-C {devices/iopin.sym} 840 -160 0 0 {name=I0 lab=I0}
+C {devices/iopin.sym} 610 -160 0 0 {name=I1 lab=I1}
+C {devices/iopin.sym} 850 -160 0 0 {name=I0 lab=I0}
 C {devices/iopin.sym} 560 -340 0 1 {name=Q lab=Q}
 C {devices/iopin.sym} 920 -340 0 0 {name=QN lab=QN}
 C {devices/iopin.sym} 360 -430 0 1 {name=SENSE_N lab=SENSE_N}
